@@ -1,4 +1,4 @@
-Fist_test
+First_test
 =========
 
 My first resository on GitHub
